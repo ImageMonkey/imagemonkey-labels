@@ -1,0 +1,10 @@
+{
+  "candle": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "75965f59-060a-4171-81f1-d22825a50fd0",
+    "plural": "candles"
+  }
+}
