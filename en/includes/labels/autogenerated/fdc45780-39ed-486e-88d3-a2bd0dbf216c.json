@@ -1,0 +1,10 @@
+{
+  "barbell": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "fdc45780-39ed-486e-88d3-a2bd0dbf216c",
+    "plural": "barbells"
+  }
+}
