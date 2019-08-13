@@ -1,0 +1,10 @@
+{
+  "fire": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "86c25e79-e30f-4546-9a99-b27fa435ec6c",
+    "plural": "fires"
+  }
+}
