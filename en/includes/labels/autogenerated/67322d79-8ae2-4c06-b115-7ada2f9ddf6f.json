@@ -1,0 +1,10 @@
+{
+  "leaf": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "67322d79-8ae2-4c06-b115-7ada2f9ddf6f",
+    "plural": "leaves"
+  }
+}
