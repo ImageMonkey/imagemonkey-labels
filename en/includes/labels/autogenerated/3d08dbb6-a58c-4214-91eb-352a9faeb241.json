@@ -1,0 +1,10 @@
+{
+  "cable": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "3d08dbb6-a58c-4214-91eb-352a9faeb241",
+    "plural": "cables"
+  }
+}
