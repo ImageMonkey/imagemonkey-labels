@@ -1,0 +1,10 @@
+{
+  "duck": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "6d1add10-e150-4e5a-8771-6c56f8fa9c1a",
+    "plural": "ducks"
+  }
+}
