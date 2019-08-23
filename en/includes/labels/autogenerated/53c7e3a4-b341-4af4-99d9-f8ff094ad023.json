@@ -1,0 +1,10 @@
+{
+  "yacht": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "53c7e3a4-b341-4af4-99d9-f8ff094ad023",
+    "plural": "yachts"
+  }
+}
