@@ -1,0 +1,10 @@
+{
+  "graffiti": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "cb2d5ab0-4525-4215-b972-4a8be922672b",
+    "plural": "graffitis"
+  }
+}
