@@ -1,0 +1,10 @@
+{
+  "museum": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "4912ebf8-d296-490e-a1a6-6815eda3b7f5",
+    "plural": "museums"
+  }
+}
