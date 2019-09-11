@@ -1,0 +1,10 @@
+{
+  "surfboard": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "33a6f7b2-c7bf-40e8-ada2-bd049dc9097e",
+    "plural": "surfboards"
+  }
+}
