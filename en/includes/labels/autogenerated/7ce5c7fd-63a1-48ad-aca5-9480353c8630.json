@@ -1,0 +1,10 @@
+{
+  "ferris wheel": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "7ce5c7fd-63a1-48ad-aca5-9480353c8630",
+    "plural": "ferris wheels"
+  }
+}
