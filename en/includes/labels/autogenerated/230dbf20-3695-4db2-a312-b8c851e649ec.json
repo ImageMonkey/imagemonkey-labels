@@ -1,0 +1,10 @@
+{
+  "bell pepper": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "230dbf20-3695-4db2-a312-b8c851e649ec",
+    "plural": "bell peppers"
+  }
+}
