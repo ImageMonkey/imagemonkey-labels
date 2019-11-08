@@ -1,0 +1,10 @@
+{
+  "chopping board": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "ed61fffb-3257-4ac5-97ea-20a267df4bee",
+    "plural": "chopping boards"
+  }
+}
