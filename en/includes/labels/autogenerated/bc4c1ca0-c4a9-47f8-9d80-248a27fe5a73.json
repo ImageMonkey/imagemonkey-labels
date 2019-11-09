@@ -1,0 +1,10 @@
+{
+  "mirror": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "bc4c1ca0-c4a9-47f8-9d80-248a27fe5a73",
+    "plural": "mirrors"
+  }
+}
