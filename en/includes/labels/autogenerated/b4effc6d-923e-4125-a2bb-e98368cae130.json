@@ -1,0 +1,10 @@
+{
+  "motor scooter": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "b4effc6d-923e-4125-a2bb-e98368cae130",
+    "plural": "motor scooters"
+  }
+}
