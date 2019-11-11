@@ -1,0 +1,10 @@
+{
+  "spinach": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "b9d06878-8b1e-4b09-bbcc-438c47a1d79e",
+    "plural": "spinachs"
+  }
+}
