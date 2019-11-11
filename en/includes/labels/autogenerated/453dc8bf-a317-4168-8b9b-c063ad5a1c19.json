@@ -1,0 +1,10 @@
+{
+  "lantern": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "453dc8bf-a317-4168-8b9b-c063ad5a1c19",
+    "plural": "lanterns"
+  }
+}
