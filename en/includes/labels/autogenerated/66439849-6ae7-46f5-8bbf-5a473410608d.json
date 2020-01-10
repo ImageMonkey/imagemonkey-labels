@@ -1,0 +1,10 @@
+{
+  "shipping container": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "66439849-6ae7-46f5-8bbf-5a473410608d",
+    "plural": "shipping containers"
+  }
+}
