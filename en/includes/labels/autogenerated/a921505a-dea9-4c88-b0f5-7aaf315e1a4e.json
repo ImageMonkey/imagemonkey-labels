@@ -1,0 +1,10 @@
+{
+  "waterfall": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "a921505a-dea9-4c88-b0f5-7aaf315e1a4e",
+    "plural": "waterfalls"
+  }
+}
