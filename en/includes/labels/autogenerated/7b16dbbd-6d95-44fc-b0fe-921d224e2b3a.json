@@ -1,0 +1,10 @@
+{
+  "fox": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "7b16dbbd-6d95-44fc-b0fe-921d224e2b3a",
+    "plural": "foxes"
+  }
+}
