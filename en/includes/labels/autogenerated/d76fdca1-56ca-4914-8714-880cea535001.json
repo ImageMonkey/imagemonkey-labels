@@ -1,0 +1,10 @@
+{
+  "billboard": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "d76fdca1-56ca-4914-8714-880cea535001",
+    "plural": "billboards"
+  }
+}
