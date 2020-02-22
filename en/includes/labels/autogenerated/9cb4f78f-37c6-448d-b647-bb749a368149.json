@@ -1,0 +1,10 @@
+{
+  "monument": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "9cb4f78f-37c6-448d-b647-bb749a368149",
+    "plural": "monuments"
+  }
+}
