@@ -1,0 +1,10 @@
+{
+  "street": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "81cd8d4a-600a-4295-ac72-5b826af7ac0a",
+    "plural": "streets"
+  }
+}
