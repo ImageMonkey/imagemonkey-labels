@@ -1,0 +1,10 @@
+{
+  "handbag": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "972c9684-1928-4ae6-936a-46e558addb6a",
+    "plural": "handbags"
+  }
+}
