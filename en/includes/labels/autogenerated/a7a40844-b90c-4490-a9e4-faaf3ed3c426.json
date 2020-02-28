@@ -1,0 +1,10 @@
+{
+  "hedge": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "a7a40844-b90c-4490-a9e4-faaf3ed3c426",
+    "plural": "hedges"
+  }
+}
