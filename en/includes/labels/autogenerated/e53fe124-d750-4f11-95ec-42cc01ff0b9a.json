@@ -1,0 +1,10 @@
+{
+  "cobblestone": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "e53fe124-d750-4f11-95ec-42cc01ff0b9a",
+    "plural": "cobblestones"
+  }
+}
