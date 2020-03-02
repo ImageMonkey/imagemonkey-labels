@@ -1,0 +1,10 @@
+{
+  "curbstone": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "c34005d6-52bc-4e26-a7a4-5ab6e7cb41a1",
+    "plural": "curbstones"
+  }
+}
