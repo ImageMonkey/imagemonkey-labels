@@ -1,0 +1,10 @@
+{
+  "moon": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "8377dc66-7b18-47a7-a46b-c018acce7d72",
+    "plural": "moons"
+  }
+}
