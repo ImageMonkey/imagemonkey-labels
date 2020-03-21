@@ -1,0 +1,10 @@
+{
+  "computer mouse": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "dae01055-40ae-4263-be41-8311ca48acbd",
+    "plural": "computer mouses"
+  }
+}
