@@ -1,0 +1,10 @@
+{
+  "gravel": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "56ba5c71-9d3c-4377-8596-49e69c72b144",
+    "plural": "gravels"
+  }
+}
