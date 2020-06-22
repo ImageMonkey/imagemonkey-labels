@@ -1,0 +1,10 @@
+{
+  "light bulb": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "d9b07cd0-a962-447e-a82c-e2918ee71ed6",
+    "plural": "light bulbs"
+  }
+}
