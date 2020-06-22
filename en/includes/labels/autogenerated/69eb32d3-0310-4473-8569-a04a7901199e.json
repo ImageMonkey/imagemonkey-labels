@@ -1,0 +1,10 @@
+{
+  "lemur": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "69eb32d3-0310-4473-8569-a04a7901199e",
+    "plural": "lemurs"
+  }
+}
