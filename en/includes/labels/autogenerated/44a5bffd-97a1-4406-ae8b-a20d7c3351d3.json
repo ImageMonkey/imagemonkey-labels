@@ -1,0 +1,10 @@
+{
+  "shirt": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "44a5bffd-97a1-4406-ae8b-a20d7c3351d3",
+    "plural": "shirts"
+  }
+}

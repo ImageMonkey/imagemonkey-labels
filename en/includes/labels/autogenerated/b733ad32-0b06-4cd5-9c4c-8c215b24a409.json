@@ -1,0 +1,10 @@
+{
+  "tram": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "b733ad32-0b06-4cd5-9c4c-8c215b24a409",
+    "plural": "trams"
+  }
+}

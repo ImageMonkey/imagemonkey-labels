@@ -1,0 +1,10 @@
+{
+  "microphone": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "595d7c8f-4d1b-452c-aeb8-e8bfa1c30e0d",
+    "plural": "microphones"
+  }
+}
