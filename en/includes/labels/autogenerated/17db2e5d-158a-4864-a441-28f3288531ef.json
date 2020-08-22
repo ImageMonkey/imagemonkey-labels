@@ -1,0 +1,10 @@
+{
+  "soldier": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "17db2e5d-158a-4864-a441-28f3288531ef",
+    "plural": "soldiers"
+  }
+}
