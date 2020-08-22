@@ -1,0 +1,10 @@
+{
+  "peacock": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "3976e84e-8341-40a6-aae7-9e5f4bc869b8",
+    "plural": "peacocks"
+  }
+}
