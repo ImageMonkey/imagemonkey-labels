@@ -1,0 +1,10 @@
+{
+  "goat": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "bcbd743e-65d5-4634-8bc4-48688f9b491d",
+    "plural": "goats"
+  }
+}
