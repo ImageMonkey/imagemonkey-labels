@@ -1,0 +1,10 @@
+{
+  "violin": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "c7b2c750-89f4-40a4-8167-f54df36c9b2e",
+    "plural": "violins"
+  }
+}
