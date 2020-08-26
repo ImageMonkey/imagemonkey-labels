@@ -1,0 +1,10 @@
+{
+  "engine": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "78565bbe-e88d-4112-ab02-cabebe363787",
+    "plural": "engines"
+  }
+}
