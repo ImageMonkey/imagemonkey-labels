@@ -1,0 +1,10 @@
+{
+  "zebra crossing": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "d3bef6f0-9586-4ebe-ab61-e32a3c36e1b8",
+    "plural": "zebra crossings"
+  }
+}
