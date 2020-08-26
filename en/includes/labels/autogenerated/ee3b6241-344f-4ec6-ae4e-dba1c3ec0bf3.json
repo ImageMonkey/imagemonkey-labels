@@ -1,0 +1,10 @@
+{
+  "windmill": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "ee3b6241-344f-4ec6-ae4e-dba1c3ec0bf3",
+    "plural": "windmills"
+  }
+}
