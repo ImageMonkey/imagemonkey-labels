@@ -1,0 +1,10 @@
+{
+  "reptile": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "f60d9c64-3a37-4733-a04c-0e66968eed4e",
+    "plural": "reptiles"
+  }
+}
