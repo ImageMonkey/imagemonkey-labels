@@ -1,0 +1,10 @@
+{
+  "sign": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "fea9c00a-7fe4-47fe-8daf-bcfaa5a0ed6f",
+    "plural": "signs"
+  }
+}
