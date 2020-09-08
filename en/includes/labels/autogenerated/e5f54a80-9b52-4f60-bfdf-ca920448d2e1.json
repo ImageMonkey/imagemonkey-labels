@@ -1,0 +1,10 @@
+{
+  "wineglass": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "e5f54a80-9b52-4f60-bfdf-ca920448d2e1",
+    "plural": "wineglasses"
+  }
+}
