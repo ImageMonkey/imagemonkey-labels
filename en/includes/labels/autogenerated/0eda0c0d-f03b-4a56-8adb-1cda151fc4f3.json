@@ -1,0 +1,10 @@
+{
+  "mammal": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "0eda0c0d-f03b-4a56-8adb-1cda151fc4f3",
+    "plural": "mammals"
+  }
+}
