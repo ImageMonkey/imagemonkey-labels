@@ -1,0 +1,10 @@
+{
+  "tray": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "618426e6-a4ec-4bd1-a80e-68903a86290f",
+    "plural": "trays"
+  }
+}
