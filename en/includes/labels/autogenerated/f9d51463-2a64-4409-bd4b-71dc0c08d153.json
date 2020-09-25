@@ -1,0 +1,10 @@
+{
+  "scarf": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "f9d51463-2a64-4409-bd4b-71dc0c08d153",
+    "plural": "scarfs"
+  }
+}
