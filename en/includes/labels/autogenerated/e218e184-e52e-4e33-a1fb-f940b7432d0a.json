@@ -1,0 +1,10 @@
+{
+  "napkin": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "f5dda70a-8316-4833-83be-f94b62c0e381",
+    "plural": "napkins"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "knife": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "0db1c5b5-2feb-41fd-bbd0-33ff156f36c0",
+    "plural": "knifes"
+  }
+}

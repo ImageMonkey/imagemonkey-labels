@@ -1,0 +1,10 @@
+{
+  "banana": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "1c1dfe7c-0978-4c59-8728-7857a3867296",
+    "plural": "bananas"
+  }
+}

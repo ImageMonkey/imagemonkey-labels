@@ -1,0 +1,10 @@
+{
+  "bullet": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "b4f05e83-60c9-4ad6-9d01-222f8d16d4ed",
+    "plural": "bullets"
+  }
+}

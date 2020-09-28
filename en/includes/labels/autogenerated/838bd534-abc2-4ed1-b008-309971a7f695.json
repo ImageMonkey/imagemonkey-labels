@@ -1,0 +1,10 @@
+{
+  "tree trunk": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "2af2b428-f5dc-4998-af0f-6a4ed5ade8cc",
+    "plural": "tree trunks"
+  }
+}

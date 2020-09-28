@@ -1,0 +1,10 @@
+{
+  "carrot": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "9eb38bb1-7468-4933-a277-aa89d18f5d4f",
+    "plural": "carrots"
+  }
+}

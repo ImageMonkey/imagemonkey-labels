@@ -1,0 +1,10 @@
+{
+  "beach": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "1e37be04-df57-47c7-9f3e-fd7cbb01f980",
+    "plural": "beaches"
+  }
+}

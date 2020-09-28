@@ -1,0 +1,10 @@
+{
+  "towel": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "14523e0c-9910-491e-985e-8d8a60b5993a",
+    "plural": "towels"
+  }
+}

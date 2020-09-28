@@ -1,0 +1,10 @@
+{
+  "gate": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "de63bd0c-bed2-4af2-9ae4-5bc24e035362",
+    "plural": "gates"
+  }
+}

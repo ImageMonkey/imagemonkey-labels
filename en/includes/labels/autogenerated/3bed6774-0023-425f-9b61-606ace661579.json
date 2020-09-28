@@ -1,0 +1,10 @@
+{
+  "van": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "1849f4b6-f6a9-4ee1-8422-9662d4daccf9",
+    "plural": "vans"
+  }
+}

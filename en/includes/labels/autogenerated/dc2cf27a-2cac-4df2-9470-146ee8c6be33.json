@@ -1,0 +1,10 @@
+{
+  "backhoe loader": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "8cc8ae96-6a8e-4221-aa10-9ef2059ac678",
+    "plural": "backhoe loaders"
+  }
+}

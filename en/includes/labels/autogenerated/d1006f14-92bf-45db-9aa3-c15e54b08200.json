@@ -1,0 +1,10 @@
+{
+  "spoon": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "fa12ab77-acef-40ba-90e1-aba5a8e2c245",
+    "plural": "spoons"
+  }
+}

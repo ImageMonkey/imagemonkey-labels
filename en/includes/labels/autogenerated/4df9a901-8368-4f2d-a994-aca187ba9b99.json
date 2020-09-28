@@ -1,0 +1,10 @@
+{
+  "bridge": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "50416c82-401a-469a-b2c4-85c64e4eee3a",
+    "plural": "bridges"
+  }
+}

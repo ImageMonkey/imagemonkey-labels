@@ -1,0 +1,10 @@
+{
+  "shop front": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "1f887b33-d1ab-4559-ac30-f595831cd1d7",
+    "plural": "shop fronts"
+  }
+}

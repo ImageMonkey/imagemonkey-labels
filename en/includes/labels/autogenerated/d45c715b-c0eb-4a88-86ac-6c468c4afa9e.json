@@ -1,0 +1,19 @@
+{
+  "horse": {
+    "description": "optional",
+    "has": {
+      "head": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "3cebcaae-dbbe-4357-9b31-f39b5cd4f8ee"
+      }
+    },
+    "accessors": [
+      "."
+    ],
+    "uuid": "6cdadd8b-6dd1-4ebb-bf7e-ae388ec9cdf2",
+    "plural": "horses"
+  }
+}

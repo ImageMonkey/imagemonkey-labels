@@ -1,0 +1,10 @@
+{
+  "ladder": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "88b3789c-4acf-411b-bb2e-6c487532b7b4",
+    "plural": "ladders"
+  }
+}

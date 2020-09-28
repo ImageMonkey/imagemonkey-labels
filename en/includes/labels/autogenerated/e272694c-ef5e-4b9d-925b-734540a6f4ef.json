@@ -1,0 +1,10 @@
+{
+  "mountain": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "2c4306a7-242f-49d5-a817-774c43ff985e",
+    "plural": "mountains"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "onion": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "caeabb57-4f03-4ff2-bcfb-fba30bf70de6",
+    "plural": "onions"
+  }
+}

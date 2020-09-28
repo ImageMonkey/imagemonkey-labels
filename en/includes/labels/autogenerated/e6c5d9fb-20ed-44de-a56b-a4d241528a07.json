@@ -1,0 +1,10 @@
+{
+  "tool": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "21ac38ea-4c47-414d-9fc5-dd3f65d316f9",
+    "plural": "tools"
+  }
+}

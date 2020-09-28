@@ -1,0 +1,10 @@
+{
+  "picture frame": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "199a70a0-16d4-4eb5-a5e7-9527193477a4",
+    "plural": "picture frames"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "cupboard": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "9ee04fe2-4012-4a37-a97b-235af0519099",
+    "plural": "cupboards"
+  }
+}

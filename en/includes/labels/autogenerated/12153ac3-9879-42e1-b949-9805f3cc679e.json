@@ -1,0 +1,10 @@
+{
+  "barrier": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "a9640f8d-9c1c-457c-91de-62149b1b3951",
+    "plural": "barriers"
+  }
+}

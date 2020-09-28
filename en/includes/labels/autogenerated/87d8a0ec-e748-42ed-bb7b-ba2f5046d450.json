@@ -1,0 +1,10 @@
+{
+  "castle": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "2897e51d-218c-4202-b3ce-fd82ab9ea434",
+    "plural": "castles"
+  }
+}

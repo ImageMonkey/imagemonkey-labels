@@ -1,0 +1,10 @@
+{
+  "foliage": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "54f0c7a6-6c20-4e96-bf4a-28bebbc6580e",
+    "plural": "foliages"
+  }
+}

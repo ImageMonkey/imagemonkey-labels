@@ -1,0 +1,10 @@
+{
+  "frog": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "fdd05a68-ff42-47f8-8905-00611b3a17bf",
+    "plural": "frogs"
+  }
+}

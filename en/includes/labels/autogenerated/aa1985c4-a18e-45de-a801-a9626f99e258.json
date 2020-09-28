@@ -1,0 +1,10 @@
+{
+  "laptop": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "f605385b-86e1-4074-a123-5c0057bf911b",
+    "plural": "laptops"
+  }
+}

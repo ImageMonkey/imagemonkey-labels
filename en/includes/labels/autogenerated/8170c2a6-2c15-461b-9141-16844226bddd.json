@@ -1,0 +1,10 @@
+{
+  "wall": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "9f6048e9-f867-4003-bb09-4087f087bea3",
+    "plural": "walls"
+  }
+}

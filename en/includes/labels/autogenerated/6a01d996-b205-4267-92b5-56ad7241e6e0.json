@@ -1,0 +1,10 @@
+{
+  "telephone box": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "6439a508-960c-4672-b50d-5faf3f895f17",
+    "plural": "telephone boxes"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "puddle": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "9599ced7-c4de-44db-a626-38c6dd43ef9d",
+    "plural": "puddles"
+  }
+}

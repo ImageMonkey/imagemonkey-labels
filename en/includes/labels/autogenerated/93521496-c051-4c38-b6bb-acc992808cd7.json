@@ -1,0 +1,10 @@
+{
+  "canal": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "1a506fa1-3e6b-4100-bf48-8889bca2b93e",
+    "plural": "canal"
+  }
+}

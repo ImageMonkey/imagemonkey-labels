@@ -1,0 +1,10 @@
+{
+  "street light": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "430b0e22-bd5f-40a3-be13-15fbaf7eff99",
+    "plural": "street lights"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "woman": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "eecd25ba-8ae1-43e5-b3a5-e43f3e7cdd67",
+    "plural": "women"
+  }
+}

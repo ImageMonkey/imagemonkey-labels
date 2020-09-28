@@ -1,0 +1,10 @@
+{
+  "giraffe": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "8b8d649e-a867-46ba-bee8-6ef007dadc45",
+    "plural": "giraffes"
+  }
+}

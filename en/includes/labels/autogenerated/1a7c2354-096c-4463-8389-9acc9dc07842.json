@@ -1,0 +1,10 @@
+{
+  "beetle": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "2a19e98a-3b0b-4a7d-85c7-31a49dfe3cf5",
+    "plural": "beatles"
+  }
+}

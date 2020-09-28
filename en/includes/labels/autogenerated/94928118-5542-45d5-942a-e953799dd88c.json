@@ -1,0 +1,10 @@
+{
+  "rock": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "c7cb83a3-1317-48dd-bd66-c93c2941e30a",
+    "plural": "rocks"
+  }
+}

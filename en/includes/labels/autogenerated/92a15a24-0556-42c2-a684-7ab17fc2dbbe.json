@@ -1,0 +1,10 @@
+{
+  "suit": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "521d4178-b144-49d2-8e5b-016c33e69c7a",
+    "plural": "suits"
+  }
+}

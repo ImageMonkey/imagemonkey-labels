@@ -1,0 +1,10 @@
+{
+  "lake": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "ddf7feaa-8c5f-4cab-84f2-6f1804998650",
+    "plural": "lakes"
+  }
+}

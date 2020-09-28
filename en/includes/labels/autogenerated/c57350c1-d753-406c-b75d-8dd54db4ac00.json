@@ -1,0 +1,10 @@
+{
+  "bush": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "6e045775-6798-4b70-aaa8-b76b79ede454",
+    "plural": "bushes"
+  }
+}

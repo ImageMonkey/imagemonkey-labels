@@ -1,0 +1,10 @@
+{
+  "strawberry": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "661797ef-31f9-4969-9c22-0b5704603969",
+    "plural": "strawberries"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "owl": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "a4882938-8566-4bcb-b5a8-b01263b1622c",
+    "plural": "owls"
+  }
+}

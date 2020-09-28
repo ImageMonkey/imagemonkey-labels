@@ -1,0 +1,10 @@
+{
+  "ceiling": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "bc3cf624-eb9b-4c81-a2d2-693fe27ef00e",
+    "plural": "ceilings"
+  }
+}

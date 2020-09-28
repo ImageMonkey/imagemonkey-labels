@@ -1,0 +1,19 @@
+{
+  "squirrel": {
+    "description": "optional",
+    "has": {
+      "head": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "63eec330-3950-41cd-b303-9d887c744126"
+      }
+    },
+    "accessors": [
+      "."
+    ],
+    "uuid": "e948b99c-06e5-4d08-b7d1-deec3fc77b18",
+    "plural": "squirrels"
+  }
+}

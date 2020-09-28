@@ -1,0 +1,10 @@
+{
+  "rucksack": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "f702402b-a6ea-4c57-bc1a-bb173e17715f",
+    "plural": "rucksacks"
+  }
+}

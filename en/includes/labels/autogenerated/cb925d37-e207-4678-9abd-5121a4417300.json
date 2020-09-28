@@ -1,0 +1,10 @@
+{
+  "salad": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "30a1e602-d453-4f99-a1c5-9b3529da09c5",
+    "plural": "salads"
+  }
+}

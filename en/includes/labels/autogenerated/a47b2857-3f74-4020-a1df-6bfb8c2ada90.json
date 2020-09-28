@@ -1,0 +1,10 @@
+{
+  "cucumber": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "d38f5335-91d8-40a2-a9f4-a2ddc8970132",
+    "plural": "cucumber"
+  }
+}

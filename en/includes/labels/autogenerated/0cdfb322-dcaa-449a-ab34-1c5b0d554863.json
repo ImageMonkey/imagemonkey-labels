@@ -1,0 +1,10 @@
+{
+  "bus": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "8d1c1663-1569-4c8f-a72b-5def6695a942",
+    "plural": "busses"
+  }
+}

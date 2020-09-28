@@ -1,0 +1,10 @@
+{
+  "church": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "ac3c81eb-7e0a-40e6-acc9-e1c58ec02c36",
+    "plural": "churches"
+  }
+}

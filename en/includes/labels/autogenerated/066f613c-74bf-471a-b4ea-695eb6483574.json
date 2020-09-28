@@ -1,0 +1,10 @@
+{
+  "vegetation": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "6d321ba0-a0ab-48de-ae42-feaf75035708",
+    "plural": "vegetations"
+  }
+}

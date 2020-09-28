@@ -1,0 +1,10 @@
+{
+  "jellyfish": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "16cc13ae-f7e8-4347-b362-9c70a61f74d8",
+    "plural": "jellyfish"
+  }
+}

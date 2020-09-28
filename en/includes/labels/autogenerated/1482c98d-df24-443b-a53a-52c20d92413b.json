@@ -1,0 +1,10 @@
+{
+  "book": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "735c2bda-dd22-4240-a373-135cbc53a05b",
+    "plural": "books"
+  }
+}

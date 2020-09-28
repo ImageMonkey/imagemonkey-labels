@@ -1,0 +1,10 @@
+{
+  "raspberry": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "11a6e3be-c590-466c-b4dc-4c47e8d5c49d",
+    "plural": "raspberries"
+  }
+}

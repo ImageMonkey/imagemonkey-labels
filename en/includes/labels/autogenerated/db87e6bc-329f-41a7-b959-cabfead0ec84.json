@@ -1,0 +1,10 @@
+{
+  "forest": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "476c449a-096c-4ed5-9b19-c4b19cf5b434",
+    "plural": "forests"
+  }
+}

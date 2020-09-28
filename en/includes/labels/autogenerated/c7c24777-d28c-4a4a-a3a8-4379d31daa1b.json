@@ -1,0 +1,290 @@
+{
+  "dog": {
+    "description": "optional",
+    "has": {
+      "ear": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "889c1585-5c6c-4e3e-a757-514849d81521"
+      },
+      "eye": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "f14d4609-b018-4641-b9c1-bf93fe220050"
+      },
+      "head": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "edb62ea7-d952-4953-96cc-97c31be71933"
+      },
+      "mouth": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "d4304606-7d1f-4803-b7b4-7d37dcc30714"
+      },
+      "nose": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "d8fa312b-38d3-4e50-9a6d-980c6c111af9"
+      },
+      "paw": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "a7725a15-95f0-4f3c-ab8b-8655662bdd46"
+      },
+      "tail": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "3fb21e22-05cc-4700-acf9-806896e2bbb9"
+      }
+    },
+    "accessors": [
+      "."
+    ],
+    "quiz": [
+      {
+        "question": "What's the size of the dog",
+        "accessors": [
+          ".size"
+        ],
+        "answers": [
+          {
+            "name": "big",
+            "examples": null,
+            "uuid": "23c84822-5468-409c-aca8-22df259333fa"
+          },
+          {
+            "name": "medium",
+            "examples": null,
+            "uuid": "b23519ff-8b2f-45c6-a22a-4dcabaee4649"
+          },
+          {
+            "name": "small",
+            "examples": null,
+            "uuid": "f4a78d49-63e9-4ccd-951f-33b5231a83b6"
+          }
+        ],
+        "allow_unknown": true,
+        "allow_other": true,
+        "browse_by_example": false,
+        "multiselect": false,
+        "control_type": "radio",
+        "uuid": "1e52541f-9a47-463d-b0cb-e32e1d3441f3"
+      },
+      {
+        "question": "It's a...",
+        "accessors": [
+          ".type"
+        ],
+        "answers": [
+          {
+            "name": "adult",
+            "examples": null,
+            "uuid": "06fd1e49-b580-4ca6-aaff-34ca39062995"
+          },
+          {
+            "name": "puppy",
+            "examples": null,
+            "uuid": "47dae924-d1c3-4ded-8479-ea965d157948"
+          }
+        ],
+        "allow_unknown": true,
+        "allow_other": true,
+        "browse_by_example": false,
+        "multiselect": false,
+        "control_type": "radio",
+        "uuid": "66cf612f-dd80-4732-b7de-3f3d2055588d"
+      },
+      {
+        "question": "What am I?",
+        "accessors": [
+          ".breed"
+        ],
+        "answers": [
+          {
+            "name": "Labrador Retriever",
+            "examples": [
+              {
+                "filename": "LabradorRetriever.jpg",
+                "attribution": ""
+              }
+            ],
+            "uuid": "d33ac818-ca09-45b0-b3b0-e16a4e422147"
+          },
+          {
+            "name": "English Cocker Spaniel",
+            "examples": [
+              {
+                "filename": "EnglishCockerSpaniel.jpg",
+                "attribution": ""
+              }
+            ],
+            "uuid": "8a725d6a-9ce8-4759-89ae-218a266e8dfd"
+          },
+          {
+            "name": "English Springer Spaniel",
+            "examples": [
+              {
+                "filename": "EnglishSpringerSpaniel.jpg",
+                "attribution": ""
+              }
+            ],
+            "uuid": "ab7e8185-017b-44d8-9b7e-cda53d2fd0e7"
+          },
+          {
+            "name": "German Shepherd",
+            "examples": [
+              {
+                "filename": "GermanShepherd.jpg",
+                "attribution": ""
+              }
+            ],
+            "uuid": "430fd4e2-7bc7-4a97-b317-6d98e89d9fcf"
+          },
+          {
+            "name": "Staffordshire Bull Terrier",
+            "examples": [
+              {
+                "filename": "StaffordshireBullTerrier.jpg",
+                "attribution": ""
+              }
+            ],
+            "uuid": "267736de-9e7f-4cce-b073-00e6458bdf65"
+          },
+          {
+            "name": "Golden Retriever",
+            "examples": [
+              {
+                "filename": "GoldenRetriever.jpg",
+                "attribution": ""
+              }
+            ],
+            "uuid": "20444b53-8cd0-4b60-b9a3-897c033229b3"
+          },
+          {
+            "name": "Boxer",
+            "examples": [
+              {
+                "filename": "Boxer.jpg",
+                "attribution": ""
+              }
+            ],
+            "uuid": "7ef05e8a-6cc5-43d5-a729-642b46368bcc"
+          },
+          {
+            "name": "Beagle",
+            "examples": [
+              {
+                "filename": "Beagle.jpg",
+                "attribution": ""
+              }
+            ],
+            "uuid": "8d699ef9-292b-4d71-8b87-711f7d14ac57"
+          },
+          {
+            "name": "Dachshund",
+            "examples": [
+              {
+                "filename": "Dachshund.jpg",
+                "attribution": ""
+              }
+            ],
+            "uuid": "859defaa-ddc4-4540-b4fc-03d7383ca79c"
+          },
+          {
+            "name": "Poodle",
+            "examples": [
+              {
+                "filename": "Poodle.jpg",
+                "attribution": ""
+              }
+            ],
+            "uuid": "435d46b6-d6cf-428e-8f33-d910a65f77f6"
+          },
+          {
+            "name": "Rottweiler",
+            "examples": [
+              {
+                "filename": "Rottweiler.jpg",
+                "attribution": ""
+              }
+            ],
+            "uuid": "97ac9993-5765-4804-9a88-9605c6474858"
+          },
+          {
+            "name": "Siberian Husky",
+            "examples": [
+              {
+                "filename": "SiberianHusky.jpg",
+                "attribution": ""
+              }
+            ],
+            "uuid": "dc12147e-c6d7-480b-953c-b5c7843b3a15"
+          },
+          {
+            "name": "Bulldog",
+            "examples": [
+              {
+                "filename": "Bulldog.jpg",
+                "attribution": ""
+              }
+            ],
+            "uuid": "6ae55ed6-0c91-4bb1-b824-f2a83454d200"
+          },
+          {
+            "name": "Mops",
+            "examples": [
+              {
+                "filename": "Mops.jpg",
+                "attribution": ""
+              }
+            ],
+            "uuid": "ac775710-d593-493b-ad01-2ff52035ad4b"
+          },
+          {
+            "name": "Dalmatiner",
+            "examples": [
+              {
+                "filename": "Dalmatiner.jpg",
+                "attribution": ""
+              }
+            ],
+            "uuid": "48fbd2d5-4b25-4af6-801d-f45bbd3337b1"
+          },
+          {
+            "name": "Great Dane",
+            "examples": [
+              {
+                "filename": "GreatDane.jpg",
+                "attribution": ""
+              }
+            ],
+            "uuid": "390fe1ab-b6a2-459e-8cb7-f340d53f8933"
+          }
+        ],
+        "allow_unknown": true,
+        "allow_other": true,
+        "browse_by_example": true,
+        "multiselect": false,
+        "control_type": "dropdown",
+        "uuid": "ceb2275b-4948-4d20-8cad-b0677259193e"
+      }
+    ],
+    "uuid": "bac46d8e-0655-46d5-a393-36c69a18ee2c",
+    "plural": "dogs"
+  }
+}

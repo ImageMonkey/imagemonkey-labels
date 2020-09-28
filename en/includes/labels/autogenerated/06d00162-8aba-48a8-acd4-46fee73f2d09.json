@@ -1,0 +1,10 @@
+{
+  "chain": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "5a427d30-b685-46e1-bbdb-2f19f47f56cd",
+    "plural": "chains"
+  }
+}

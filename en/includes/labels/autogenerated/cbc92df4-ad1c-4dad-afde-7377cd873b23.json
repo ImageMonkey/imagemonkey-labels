@@ -1,0 +1,10 @@
+{
+  "jar": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "0bcbc385-b00c-475e-b8f7-5d248da9a296",
+    "plural": "jar"
+  }
+}

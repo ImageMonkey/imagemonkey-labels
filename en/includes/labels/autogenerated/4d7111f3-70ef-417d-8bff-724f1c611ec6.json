@@ -1,0 +1,10 @@
+{
+  "field": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "19f062dc-1f03-46fe-b672-87931596358b",
+    "plural": "fields"
+  }
+}

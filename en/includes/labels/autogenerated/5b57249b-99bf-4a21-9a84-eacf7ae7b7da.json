@@ -1,0 +1,10 @@
+{
+  "crane": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "e9a3970e-6627-47e0-84f3-29a9c5e9161a",
+    "plural": "cranes"
+  }
+}

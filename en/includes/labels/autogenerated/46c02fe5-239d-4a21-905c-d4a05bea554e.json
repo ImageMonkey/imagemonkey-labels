@@ -1,0 +1,10 @@
+{
+  "tiger": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "2d6e8268-bf45-43eb-9f9c-c2dfa3ac5ba2",
+    "plural": "tigers"
+  }
+}

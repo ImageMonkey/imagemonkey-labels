@@ -1,0 +1,10 @@
+{
+  "ant": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "0245c27a-b45a-4ab0-bc1c-3397651b994e",
+    "plural": "ants"
+  }
+}

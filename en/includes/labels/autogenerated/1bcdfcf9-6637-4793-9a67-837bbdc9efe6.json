@@ -1,0 +1,10 @@
+{
+  "skateboard": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "4bdc78c2-e921-45bb-9e0b-1cb9cf879599",
+    "plural": "skateboards"
+  }
+}

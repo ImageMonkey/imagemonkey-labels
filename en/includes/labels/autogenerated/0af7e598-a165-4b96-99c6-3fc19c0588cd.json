@@ -1,0 +1,10 @@
+{
+  "sand": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "fd5e9951-4e65-471e-9ade-b08d85eedd98",
+    "plural": "sands"
+  }
+}

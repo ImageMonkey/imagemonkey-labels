@@ -1,0 +1,10 @@
+{
+  "sea": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "157b4dc1-59de-4c49-830c-2c9ddb66dfee",
+    "plural": "seas"
+  }
+}

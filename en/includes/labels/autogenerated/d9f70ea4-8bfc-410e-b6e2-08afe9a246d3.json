@@ -1,0 +1,10 @@
+{
+  "man": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "57d71782-fcb6-49bc-aac4-3122de81b89b",
+    "plural": "men"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "washing machine": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "e1c0679a-f6bf-428c-85de-01853570bef6",
+    "plural": "washing machines"
+  }
+}

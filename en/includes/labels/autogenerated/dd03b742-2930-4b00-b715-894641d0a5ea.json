@@ -1,0 +1,10 @@
+{
+  "tie": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "59d7f359-4da0-4338-abd0-1e9ae0543abb",
+    "plural": "ties"
+  }
+}

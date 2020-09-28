@@ -1,0 +1,10 @@
+{
+  "orange": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "5ca7ccad-3b8c-4c9a-ac27-44cddc96d4fa",
+    "plural": "oranges"
+  }
+}

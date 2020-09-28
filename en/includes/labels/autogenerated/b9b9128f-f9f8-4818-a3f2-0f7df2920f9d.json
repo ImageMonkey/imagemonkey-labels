@@ -1,0 +1,10 @@
+{
+  "rope": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "db9accb6-e4e0-4898-bb68-bb3df7807f63",
+    "plural": "ropes"
+  }
+}

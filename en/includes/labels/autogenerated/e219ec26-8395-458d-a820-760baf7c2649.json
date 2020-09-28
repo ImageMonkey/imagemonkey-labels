@@ -1,0 +1,10 @@
+{
+  "football": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "9d0c112d-34eb-4d04-ac5c-0995af42dbc6",
+    "plural": "footballs"
+  }
+}

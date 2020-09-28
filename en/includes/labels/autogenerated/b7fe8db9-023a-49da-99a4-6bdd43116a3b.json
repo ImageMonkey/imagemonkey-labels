@@ -1,0 +1,10 @@
+{
+  "elephant": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "76b1eb48-70b3-43d4-8890-5a967649a00d",
+    "plural": "elephants"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "person": {
+    "description": "optional",
+    "has": {
+      "face": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "8184620a-b6bb-4a3e-9c69-9a75a18b7734"
+      },
+      "foot": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "9c62425d-874b-4b50-93fc-3f4de7ef1bd5"
+      },
+      "hand": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "9cf2d1ab-69a8-48eb-9adf-fd3977c56722"
+      },
+      "head": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "a9b9c7c8-9340-4b91-a573-d1f115b6d137"
+      }
+    },
+    "accessors": [
+      "."
+    ],
+    "uuid": "64766828-a943-433f-8800-1901cebf959d",
+    "plural": "persons"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "flag": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "651b2ef9-3c5c-4f73-900a-4f344de4b644",
+    "plural": "flags"
+  }
+}

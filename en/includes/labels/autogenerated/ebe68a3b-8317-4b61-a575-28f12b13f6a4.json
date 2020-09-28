@@ -1,0 +1,10 @@
+{
+  "bed": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "40735064-ecac-47c3-8020-3adafcad7a99",
+    "plural": "beds"
+  }
+}

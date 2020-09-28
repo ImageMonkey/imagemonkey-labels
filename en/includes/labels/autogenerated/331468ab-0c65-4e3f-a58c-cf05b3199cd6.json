@@ -1,0 +1,10 @@
+{
+  "jeans": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "aa947d16-4f65-4338-b814-507a2d5acac9",
+    "plural": "jeans"
+  }
+}

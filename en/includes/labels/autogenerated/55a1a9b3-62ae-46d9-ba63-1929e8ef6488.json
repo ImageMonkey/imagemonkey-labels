@@ -1,0 +1,10 @@
+{
+  "snail": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "20643981-dceb-4c3e-b3fd-8cb329650b65",
+    "plural": "snails"
+  }
+}

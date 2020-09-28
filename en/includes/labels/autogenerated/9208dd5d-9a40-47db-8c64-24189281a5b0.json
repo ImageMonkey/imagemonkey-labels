@@ -1,0 +1,10 @@
+{
+  "mushroom": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "f7781c7d-b963-45ad-b09e-677a2c626827",
+    "plural": "mushrooms"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "guitar": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "00e8851f-715e-4c03-8597-f2b2545a3ca2",
+    "plural": "guitars"
+  }
+}

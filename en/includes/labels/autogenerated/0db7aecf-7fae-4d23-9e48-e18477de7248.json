@@ -1,0 +1,10 @@
+{
+  "snow": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "f958ea3d-5b45-4109-a606-9b6342712f00",
+    "plural": "snow"
+  }
+}

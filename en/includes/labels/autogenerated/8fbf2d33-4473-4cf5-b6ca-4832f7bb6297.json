@@ -1,0 +1,10 @@
+{
+  "train": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "dcf65e07-a71f-4226-8efd-ec6846960ba2",
+    "plural": "trains"
+  }
+}

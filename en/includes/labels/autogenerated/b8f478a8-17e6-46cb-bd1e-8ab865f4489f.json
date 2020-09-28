@@ -1,0 +1,19 @@
+{
+  "house": {
+    "description": "optional",
+    "has": {
+      "roof": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "b21f0558-956e-4739-9dbe-247e93ac42c0"
+      }
+    },
+    "accessors": [
+      "."
+    ],
+    "uuid": "22bbce9a-9f50-4f38-ba11-6f2963d19809",
+    "plural": "houses"
+  }
+}

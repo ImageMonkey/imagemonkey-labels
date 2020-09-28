@@ -1,0 +1,10 @@
+{
+  "tent": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "fda43d96-1c96-45f1-be67-34973ad62059",
+    "plural": "tents"
+  }
+}

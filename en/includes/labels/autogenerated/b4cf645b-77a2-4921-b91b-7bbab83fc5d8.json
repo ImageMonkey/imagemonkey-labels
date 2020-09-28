@@ -1,0 +1,10 @@
+{
+  "sofa": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "3d186e64-38e5-404c-9452-30ba5173db45",
+    "plural": "sofas"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "pizza": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "be8270fd-2c5c-47ff-b938-0555e5201a18",
+    "plural": "pizzas"
+  }
+}

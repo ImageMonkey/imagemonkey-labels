@@ -1,0 +1,10 @@
+{
+  "cabbage": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "ae65d146-6428-453b-9f80-ddfadcd49e5e",
+    "plural": "cabbages"
+  }
+}

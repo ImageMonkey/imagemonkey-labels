@@ -1,0 +1,10 @@
+{
+  "pen": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "cabd5ba9-fd89-4310-be88-957a82cc481f",
+    "plural": "pens"
+  }
+}

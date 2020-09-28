@@ -1,0 +1,10 @@
+{
+  "plant": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "c98e3948-040b-43d8-bd3a-97536de10a9e",
+    "plural": "plants"
+  }
+}

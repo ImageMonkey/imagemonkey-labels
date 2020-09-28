@@ -1,0 +1,10 @@
+{
+  "tower": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "996093dc-ac0c-4458-b7f4-0d4e12edc42d",
+    "plural": "towers"
+  }
+}

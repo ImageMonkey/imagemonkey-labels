@@ -1,0 +1,10 @@
+{
+  "blueberry": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "5c3eae85-f3f6-4572-a789-f37b9b2cc8b7",
+    "plural": "blueberries"
+  }
+}

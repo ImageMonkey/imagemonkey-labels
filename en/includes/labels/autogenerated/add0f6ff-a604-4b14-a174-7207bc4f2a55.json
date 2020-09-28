@@ -1,0 +1,9 @@
+{
+  "plate": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "ba766c25-a0db-4458-b792-a9ec4f1777ac"
+  }
+}

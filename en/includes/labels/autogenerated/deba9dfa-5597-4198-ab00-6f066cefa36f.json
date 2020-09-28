@@ -1,0 +1,10 @@
+{
+  "clock": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "282e4dd7-d519-49ea-858b-f100309ce0bf",
+    "plural": "clocks"
+  }
+}

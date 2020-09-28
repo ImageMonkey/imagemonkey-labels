@@ -1,0 +1,10 @@
+{
+  "chair": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "ace0d018-f335-4947-8604-69323f375b1b",
+    "plural": "chairs"
+  }
+}

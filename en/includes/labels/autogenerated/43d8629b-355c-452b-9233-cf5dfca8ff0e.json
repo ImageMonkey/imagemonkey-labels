@@ -1,0 +1,10 @@
+{
+  "shoe": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "14c7d814-00f2-47f2-b4c5-f3f8872994bc",
+    "plural": "shoes"
+  }
+}

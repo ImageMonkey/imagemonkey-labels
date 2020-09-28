@@ -1,0 +1,10 @@
+{
+  "skyscraper": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "30431063-77e0-47cd-9241-2fc4c7e06b76",
+    "plural": "skyscrapers"
+  }
+}

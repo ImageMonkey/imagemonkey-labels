@@ -1,0 +1,10 @@
+{
+  "sheep": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "297932ac-5f16-4164-8997-a9d3343b2648",
+    "plural": "sheeps"
+  }
+}

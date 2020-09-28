@@ -1,0 +1,10 @@
+{
+  "ship": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "574aeaa2-7136-4e9c-a748-9b35446779de",
+    "plural": "ships"
+  }
+}

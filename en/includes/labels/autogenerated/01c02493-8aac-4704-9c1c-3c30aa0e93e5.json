@@ -1,0 +1,10 @@
+{
+  "sun": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "c6818c11-6c0a-4f51-904b-4c3e07bbbc2d",
+    "plural": "suns"
+  }
+}

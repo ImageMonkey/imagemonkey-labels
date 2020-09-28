@@ -1,0 +1,10 @@
+{
+  "moth": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "cf97eff5-93bf-4d26-b8a2-4c5266c3641e",
+    "plural": "moths"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "tractor": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "4ecf2dcf-cf95-46f5-b2fa-5f7ccdb3a4cd",
+    "plural": "tractors"
+  }
+}

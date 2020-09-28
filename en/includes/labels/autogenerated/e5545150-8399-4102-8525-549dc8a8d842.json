@@ -1,0 +1,10 @@
+{
+  "harbour": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "0e6c12b1-8fe9-4022-985c-6b9ea3cf0bca",
+    "plural": "harbours"
+  }
+}

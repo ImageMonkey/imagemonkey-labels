@@ -1,0 +1,10 @@
+{
+  "helicopter": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "e37f1c27-f188-4423-9ffc-f975b9890932",
+    "plural": "helicopters"
+  }
+}

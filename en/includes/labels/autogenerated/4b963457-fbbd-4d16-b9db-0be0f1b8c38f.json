@@ -1,0 +1,10 @@
+{
+  "boat": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "86bf68c3-31af-41fa-8e35-29fbe6ecda27",
+    "plural": "boats"
+  }
+}

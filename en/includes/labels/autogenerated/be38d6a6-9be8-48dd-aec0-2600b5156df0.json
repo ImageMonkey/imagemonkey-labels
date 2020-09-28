@@ -1,0 +1,10 @@
+{
+  "parking space": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "01c5957f-fc79-41c6-85ac-417a07667c2e",
+    "plural": "parking space"
+  }
+}

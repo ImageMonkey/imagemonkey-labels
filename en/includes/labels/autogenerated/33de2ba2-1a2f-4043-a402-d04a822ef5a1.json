@@ -1,0 +1,10 @@
+{
+  "river": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "d25e8353-2b45-434c-b8e7-8fe98ab2925b",
+    "plural": "rivers"
+  }
+}

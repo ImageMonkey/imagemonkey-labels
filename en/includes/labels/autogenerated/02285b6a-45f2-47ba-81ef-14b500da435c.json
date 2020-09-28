@@ -1,0 +1,10 @@
+{
+  "rabbit": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "a86d4227-50c3-4ded-ace6-02d7321af718",
+    "plural": "rabbits"
+  }
+}

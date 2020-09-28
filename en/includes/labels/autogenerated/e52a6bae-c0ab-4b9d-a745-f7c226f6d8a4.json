@@ -1,0 +1,10 @@
+{
+  "glass": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "f08885f5-e0fa-467f-addf-459013170516",
+    "plural": "glasses"
+  }
+}
