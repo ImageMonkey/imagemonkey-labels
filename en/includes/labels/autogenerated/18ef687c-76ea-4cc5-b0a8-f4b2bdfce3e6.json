@@ -1,0 +1,10 @@
+{
+  "bag": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "3bb8f4ee-7eb5-4a61-b1cc-0c50aac8df72",
+    "plural": "bags"
+  }
+}

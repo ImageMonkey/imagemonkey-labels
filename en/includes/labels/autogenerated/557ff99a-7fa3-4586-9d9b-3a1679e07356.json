@@ -1,0 +1,10 @@
+{
+  "bench": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "773fcfc8-5a91-4a3e-900d-ba7f03828b93",
+    "plural": "benches"
+  }
+}

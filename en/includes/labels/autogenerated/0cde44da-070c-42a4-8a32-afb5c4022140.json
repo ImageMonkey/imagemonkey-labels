@@ -1,0 +1,10 @@
+{
+  "fence": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "f45f733f-a497-473c-9254-b1d52f32ab4c",
+    "plural": "fences"
+  }
+}

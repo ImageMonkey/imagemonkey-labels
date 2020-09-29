@@ -1,0 +1,10 @@
+{
+  "snake": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "8e650c03-85a0-445d-9706-7a69a94b43c9",
+    "plural": "snakes"
+  }
+}

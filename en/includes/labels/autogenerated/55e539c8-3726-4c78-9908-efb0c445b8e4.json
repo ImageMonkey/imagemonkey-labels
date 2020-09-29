@@ -1,0 +1,10 @@
+{
+  "grass": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "677600b9-9e2e-48c2-8c4a-efbb72a0753f",
+    "plural": "grasses"
+  }
+}

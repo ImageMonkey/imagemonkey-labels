@@ -1,0 +1,10 @@
+{
+  "curtain": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "90c9a7b5-d79d-4ed5-8cb7-3f41b6a150e4",
+    "plural": "curtains"
+  }
+}

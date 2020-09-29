@@ -1,0 +1,10 @@
+{
+  "bottle": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "cbe76e44-759e-4edd-a5a3-87ef98e398a3",
+    "plural": "bottles"
+  }
+}

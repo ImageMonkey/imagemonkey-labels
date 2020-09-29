@@ -1,0 +1,10 @@
+{
+  "TV": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "3699ac56-1356-4695-9195-fbcf18471736",
+    "plural": "TVs"
+  }
+}

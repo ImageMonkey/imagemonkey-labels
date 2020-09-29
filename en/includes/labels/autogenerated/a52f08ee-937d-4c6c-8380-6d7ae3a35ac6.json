@@ -1,0 +1,10 @@
+{
+  "steps": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "269e038e-7395-4bf1-ab98-1eb57c90374c",
+    "plural": "steps"
+  }
+}

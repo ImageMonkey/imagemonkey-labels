@@ -1,0 +1,10 @@
+{
+  "pallet": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "d7db16e2-ed10-49f1-b1c1-458993c7ec21",
+    "plural": "pallets"
+  }
+}

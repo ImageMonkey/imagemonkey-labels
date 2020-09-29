@@ -1,0 +1,10 @@
+{
+  "sunglasses": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "e15d84c5-1afa-439e-b089-ba1ce8b32d0f",
+    "plural": "sunglasses"
+  }
+}

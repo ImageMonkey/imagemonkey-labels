@@ -1,0 +1,10 @@
+{
+  "cushion": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "5bea1931-d8e3-47c6-be24-8ab016694a74",
+    "plural": "cushions"
+  }
+}

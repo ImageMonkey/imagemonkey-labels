@@ -1,0 +1,10 @@
+{
+  "swimming pool": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "d4a2bec5-5e2a-4e30-818e-4f975d5c5c78",
+    "plural": "swimming pools"
+  }
+}

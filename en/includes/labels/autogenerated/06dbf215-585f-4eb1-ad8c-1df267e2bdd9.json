@@ -1,0 +1,10 @@
+{
+  "carpet": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "a475be1e-963c-412e-bf4b-fd57ba069e0c",
+    "plural": "carpets"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "bread": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "dd2a451a-042f-4994-b9d5-fa7ddbdce5a1",
+    "plural": "bread"
+  }
+}

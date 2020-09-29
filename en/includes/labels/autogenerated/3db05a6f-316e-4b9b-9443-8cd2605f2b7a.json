@@ -1,0 +1,10 @@
+{
+  "hat": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "13127a19-78b7-4f36-b67a-cc4ffaf4ac13",
+    "plural": "hats"
+  }
+}

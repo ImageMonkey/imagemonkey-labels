@@ -1,0 +1,19 @@
+{
+  "truck": {
+    "description": "optional",
+    "has": {
+      "cabin": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "ff4187df-b9e3-4c4c-b342-07bbf2e38310"
+      }
+    },
+    "accessors": [
+      "."
+    ],
+    "uuid": "60c08783-9869-4d56-804f-14e14152b02f",
+    "plural": "trucks"
+  }
+}

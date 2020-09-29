@@ -1,0 +1,10 @@
+{
+  "shelf": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "2722232d-2e5a-408b-bff7-f4c5e1b280b5",
+    "plural": "shelfs"
+  }
+}

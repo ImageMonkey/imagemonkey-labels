@@ -1,0 +1,10 @@
+{
+  "cactus": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "2de14381-5204-431e-996a-261a411c50e8",
+    "plural": "cactuses"
+  }
+}

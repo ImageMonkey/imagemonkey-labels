@@ -1,0 +1,10 @@
+{
+  "traffic light": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "1cf4fbe3-f381-4d10-af4d-5ac5199c94b8",
+    "plural": "traffic lights"
+  }
+}

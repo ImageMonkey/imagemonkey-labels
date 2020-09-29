@@ -1,0 +1,10 @@
+{
+  "jet airliner": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "e6870b75-9413-4e9f-8059-1e746732007e",
+    "plural": "jet airliners"
+  }
+}

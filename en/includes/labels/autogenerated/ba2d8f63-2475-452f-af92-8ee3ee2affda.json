@@ -1,0 +1,19 @@
+{
+  "cup": {
+    "description": "optional",
+    "has": {
+      "handle": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "8087f4cd-4102-47fc-bb90-0824b0b6897e"
+      }
+    },
+    "accessors": [
+      "."
+    ],
+    "uuid": "654c2298-aa63-4d7d-b154-c8b521c26532",
+    "plural": "cups"
+  }
+}

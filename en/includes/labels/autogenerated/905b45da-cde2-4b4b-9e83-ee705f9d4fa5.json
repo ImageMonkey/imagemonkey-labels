@@ -1,0 +1,10 @@
+{
+  "bulldozer": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "39a47c82-a0f2-4b9c-8f22-00028b88004f",
+    "plural": "bulldozers"
+  }
+}

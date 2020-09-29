@@ -1,0 +1,61 @@
+{
+  "cat": {
+    "description": "optional",
+    "has": {
+      "ear": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "e6f48b23-4553-421b-be6d-0600905078c8"
+      },
+      "eye": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "d6a550b6-4384-43dc-a2e9-4abb6ae80462"
+      },
+      "head": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "33ed8c33-28fc-4920-8b43-1ffb89e5bef1"
+      },
+      "mouth": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "3bf40bb8-f671-46d5-9f6b-efe385010508"
+      },
+      "nose": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "09c167cd-186b-4b93-a972-ddf1f9763c8f"
+      },
+      "paw": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "de5b8963-b32f-4050-a5ce-069ec27f67b2"
+      },
+      "tail": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "44fdc5c6-15b9-4a3e-9f4d-c4e3a9d1d55a"
+      }
+    },
+    "accessors": [
+      "."
+    ],
+    "uuid": "05c02fc5-9095-41e4-acb1-68303654ebb1",
+    "plural": "cats"
+  }
+}

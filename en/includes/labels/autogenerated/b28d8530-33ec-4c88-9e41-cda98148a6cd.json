@@ -1,0 +1,10 @@
+{
+  "bicycle": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "c8cfc6a0-1a20-4e89-b879-d7378b882939",
+    "plural": "bicycles"
+  }
+}

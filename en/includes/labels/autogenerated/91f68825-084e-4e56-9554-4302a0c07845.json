@@ -1,0 +1,10 @@
+{
+  "computer monitor": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "d6a993dc-09df-4569-9416-29ce350a97e6",
+    "plural": "computer monitors"
+  }
+}

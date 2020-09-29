@@ -1,0 +1,10 @@
+{
+  "wrist watch": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "2ee8481d-4319-4249-b85e-788859e628a9",
+    "plural": "wrist watches"
+  }
+}

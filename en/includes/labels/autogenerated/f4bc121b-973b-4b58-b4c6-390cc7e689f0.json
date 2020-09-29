@@ -1,0 +1,19 @@
+{
+  "cow": {
+    "description": "optional",
+    "has": {
+      "head": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "23355225-a68e-47c3-aed1-c2840711afc3"
+      }
+    },
+    "accessors": [
+      "."
+    ],
+    "uuid": "04f9c653-b660-4471-8541-aaf0f33958a0",
+    "plural": "cows"
+  }
+}

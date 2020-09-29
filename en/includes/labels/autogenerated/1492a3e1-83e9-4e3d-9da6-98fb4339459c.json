@@ -1,0 +1,10 @@
+{
+  "sky": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "459c447b-2919-475b-b6db-b5dfc3d3d676",
+    "plural": "skies"
+  }
+}

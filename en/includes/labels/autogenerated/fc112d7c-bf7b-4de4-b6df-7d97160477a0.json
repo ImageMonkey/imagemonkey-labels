@@ -1,0 +1,10 @@
+{
+  "cake": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "6ac249f5-c741-4280-8397-d4783b4fcca0",
+    "plural": "cakes"
+  }
+}

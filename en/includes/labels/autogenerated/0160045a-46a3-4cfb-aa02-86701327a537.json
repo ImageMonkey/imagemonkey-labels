@@ -1,0 +1,10 @@
+{
+  "smartphone": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "729f8759-ed57-4a45-984e-73b0f3f96e14",
+    "plural": "smartphones"
+  }
+}

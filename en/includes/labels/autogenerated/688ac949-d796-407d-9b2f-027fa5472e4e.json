@@ -1,0 +1,10 @@
+{
+  "path": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "689421e5-5779-4ba0-83c3-1ad145397d5d",
+    "plural": "paths"
+  }
+}

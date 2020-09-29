@@ -1,0 +1,10 @@
+{
+  "motorbike": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "3ec690a8-0f00-4bb1-851b-51739bffc95d",
+    "plural": "motorbikes"
+  }
+}

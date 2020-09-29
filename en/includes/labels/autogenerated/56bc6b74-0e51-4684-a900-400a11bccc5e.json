@@ -1,0 +1,10 @@
+{
+  "traffic cone": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "d753a069-2b21-490a-987b-ed6d055eea43",
+    "plural": "traffic cones"
+  }
+}

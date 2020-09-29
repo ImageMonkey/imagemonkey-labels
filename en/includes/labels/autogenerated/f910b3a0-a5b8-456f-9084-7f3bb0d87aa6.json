@@ -1,0 +1,10 @@
+{
+  "desk": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "bba7aae9-3892-4367-9859-dbfdd05b9ab5",
+    "plural": "desks"
+  }
+}

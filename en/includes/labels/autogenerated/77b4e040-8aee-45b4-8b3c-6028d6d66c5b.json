@@ -1,0 +1,10 @@
+{
+  "building": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "3619dc01-f1e2-4791-9ddd-56550c2a6b7d",
+    "plural": "buildings"
+  }
+}

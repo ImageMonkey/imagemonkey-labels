@@ -1,0 +1,10 @@
+{
+  "temple": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "7ccdfd4d-e13a-4518-8d10-e3743fe97d80",
+    "plural": "temples"
+  }
+}

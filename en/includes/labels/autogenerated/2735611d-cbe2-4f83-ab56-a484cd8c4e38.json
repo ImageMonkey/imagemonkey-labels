@@ -1,0 +1,10 @@
+{
+  "egg": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "fe374440-d36d-4330-9145-ef92507f2c9d",
+    "plural": "eggs"
+  }
+}

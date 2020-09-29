@@ -1,0 +1,10 @@
+{
+  "coat": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "f321bfbd-897c-4edc-9529-dd329e5d82be",
+    "plural": "coats"
+  }
+}

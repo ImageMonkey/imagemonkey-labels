@@ -1,0 +1,10 @@
+{
+  "typewriter": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "42e1f70e-15ad-4f5c-bd6c-a92d1344d423",
+    "plural": "typewriters"
+  }
+}

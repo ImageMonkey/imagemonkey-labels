@@ -1,0 +1,10 @@
+{
+  "door": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "0291fabe-39d8-4ec9-b539-76bd77fb5c96",
+    "plural": "doors"
+  }
+}

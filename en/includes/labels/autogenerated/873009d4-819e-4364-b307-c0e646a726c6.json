@@ -1,0 +1,10 @@
+{
+  "helmet": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "14abedd0-85b9-4b83-a103-647bcfd1003f",
+    "plural": "helmets"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "bowl": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "168690ff-7da0-4b7b-bcdb-d740dc355f15",
+    "plural": "bowls"
+  }
+}

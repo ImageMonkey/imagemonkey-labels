@@ -1,0 +1,10 @@
+{
+  "ball": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "04c61035-a112-4834-94be-1a9bd0ef1a9f",
+    "plural": "balls"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "bee": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "26233e92-cc48-4e80-bc47-5f8c84b4ab47",
+    "plural": "bees"
+  }
+}

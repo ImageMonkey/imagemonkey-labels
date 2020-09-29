@@ -1,0 +1,10 @@
+{
+  "dress": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "9b572278-e0b7-47ac-b721-641fe6a9a386",
+    "plural": "dresses"
+  }
+}

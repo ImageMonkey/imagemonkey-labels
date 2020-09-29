@@ -1,0 +1,10 @@
+{
+  "excavator": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "e2a19fe2-9b15-49cd-83d2-3110d2b9d1ea",
+    "plural": "excavators"
+  }
+}

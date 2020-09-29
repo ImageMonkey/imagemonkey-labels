@@ -1,0 +1,10 @@
+{
+  "bus shelter": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "fbdb1202-3d1d-47af-bec4-06cdc2e3189f",
+    "plural": "bus shelters"
+  }
+}

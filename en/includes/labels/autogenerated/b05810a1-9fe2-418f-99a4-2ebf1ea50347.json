@@ -1,0 +1,266 @@
+{
+  "car": {
+    "description": "optional",
+    "has": {
+      "headlight": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "e8eb2b56-921f-4b6e-985a-f10331c22fe7"
+      },
+      "wheel": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "dd74f30a-7908-4120-8a8f-b12082e1b04c"
+      }
+    },
+    "accessors": [
+      "."
+    ],
+    "quiz": [
+      {
+        "question": "It's a...",
+        "accessors": [
+          ".brand"
+        ],
+        "answers": [
+          {
+            "name": "Seat",
+            "examples": null,
+            "uuid": "03f08e3e-442d-4fae-8cb8-edb945e5931a"
+          },
+          {
+            "name": "Renault",
+            "examples": null,
+            "uuid": "cd4950c6-2da8-4dfd-8dc0-53a834e63faf"
+          },
+          {
+            "name": "Peugot",
+            "examples": null,
+            "uuid": "fd2924a3-89f8-44a9-95cc-e8a745407106"
+          },
+          {
+            "name": "BMW",
+            "examples": null,
+            "uuid": "8553c39d-408e-46b5-9543-66594a9d8cab"
+          },
+          {
+            "name": "Ford",
+            "examples": null,
+            "uuid": "a7cf8f7d-bd75-4fa5-b3d6-bdb4bf7b0cc0"
+          },
+          {
+            "name": "Opel",
+            "examples": null,
+            "uuid": "665a8c44-dab5-4cf7-af56-b3a6ccd3d62b"
+          },
+          {
+            "name": "Alfa Romeo",
+            "examples": null,
+            "uuid": "6a76d6bd-c54d-4c74-9243-991d870f6d92"
+          },
+          {
+            "name": "Chevrolet",
+            "examples": null,
+            "uuid": "04235cbd-9ee6-4808-91ff-084069b2fffa"
+          },
+          {
+            "name": "Porsche",
+            "examples": null,
+            "uuid": "db0f5870-dba2-4f81-8fd6-4ad43a25c5fb"
+          },
+          {
+            "name": "Honda",
+            "examples": null,
+            "uuid": "47e55f6c-d7d4-4bf0-8d17-c16938513bb7"
+          },
+          {
+            "name": "Subaru",
+            "examples": null,
+            "uuid": "0a1f762b-72f0-4825-aa11-5953b8b9f866"
+          },
+          {
+            "name": "Mazda",
+            "examples": null,
+            "uuid": "bd998d0c-caa0-437d-a83f-4d84d9e224b6"
+          },
+          {
+            "name": "Mitsubishi",
+            "examples": null,
+            "uuid": "96b93795-987f-4a8d-905a-9944c54a2736"
+          },
+          {
+            "name": "Lexus",
+            "examples": null,
+            "uuid": "9b03de96-6d8b-47b3-ac78-07d599a9a467"
+          },
+          {
+            "name": "Toyota",
+            "examples": null,
+            "uuid": "3c89b447-65e3-4510-9f64-277cfa795e35"
+          },
+          {
+            "name": "Volkswagen",
+            "examples": null,
+            "uuid": "677de3a6-6fc7-4731-a0ea-99bf546be8c4"
+          },
+          {
+            "name": "Suzuki",
+            "examples": null,
+            "uuid": "69584d5d-8a66-4c55-995d-390303e92d0e"
+          },
+          {
+            "name": "Mercedes-Benz",
+            "examples": null,
+            "uuid": "a0f76a59-73bf-4be2-a16b-b0dea8b455a4"
+          },
+          {
+            "name": "Saab",
+            "examples": null,
+            "uuid": "0021b298-37cf-478c-b3b7-f0df57353a8d"
+          },
+          {
+            "name": "Audi",
+            "examples": null,
+            "uuid": "b1f81da5-d758-444d-adc6-9215c38797f3"
+          },
+          {
+            "name": "Kia",
+            "examples": null,
+            "uuid": "d3c2c5a0-3918-4914-a437-9232850ec29c"
+          },
+          {
+            "name": "Land Rover",
+            "examples": null,
+            "uuid": "8b5fbe19-dfe1-498b-bd03-42e01965a716"
+          },
+          {
+            "name": "Doge",
+            "examples": null,
+            "uuid": "c14da9b8-4f57-4b27-8db1-4f02cf78688d"
+          },
+          {
+            "name": "Chrysler",
+            "examples": null,
+            "uuid": "6997418f-adc9-4812-a153-4443f5706150"
+          },
+          {
+            "name": "Hummer",
+            "examples": null,
+            "uuid": "f75126dd-ae6e-43c9-8f4a-b690a67eb278"
+          },
+          {
+            "name": "Hyundai",
+            "examples": null,
+            "uuid": "8c99f918-caca-469e-b628-299499fa7985"
+          },
+          {
+            "name": "Jaguar",
+            "examples": null,
+            "uuid": "a97e90d3-5dee-44bf-9d03-797b493e3328"
+          },
+          {
+            "name": "Jeep",
+            "examples": null,
+            "uuid": "f8c7154a-5379-40e3-89b9-227c39359dad"
+          },
+          {
+            "name": "Nissan",
+            "examples": null,
+            "uuid": "b236ba54-dd16-492f-ba65-72a17f1ffce5"
+          },
+          {
+            "name": "Volvo",
+            "examples": null,
+            "uuid": "e0762258-2703-4c7a-8fd0-6f135ac0399e"
+          },
+          {
+            "name": "Daewoo",
+            "examples": null,
+            "uuid": "64d7ffee-380f-47b3-b7ce-111c44abc2c8"
+          },
+          {
+            "name": "Fiat",
+            "examples": null,
+            "uuid": "b501f40a-ec22-4439-ace9-e2116e150274"
+          },
+          {
+            "name": "MINI",
+            "examples": null,
+            "uuid": "ac0c6383-3163-45c2-98ad-765be1c9690c"
+          },
+          {
+            "name": "Smart",
+            "examples": null,
+            "uuid": "7ca3a10f-5ffd-4a1d-8b34-ee2a3e419094"
+          }
+        ],
+        "allow_unknown": true,
+        "allow_other": true,
+        "browse_by_example": false,
+        "multiselect": false,
+        "control_type": "dropdown",
+        "uuid": "e6d01e97-d53b-4da5-9c71-5f3fe36a10b9"
+      },
+      {
+        "question": "The color of the car is...",
+        "accessors": [
+          ".color"
+        ],
+        "answers": [
+          {
+            "name": "white",
+            "examples": null,
+            "uuid": "cb704076-838a-4509-be88-d3401dab98d0"
+          },
+          {
+            "name": "silver",
+            "examples": null,
+            "uuid": "f0f874b2-da85-4d36-978d-1b5d7e1ac416"
+          },
+          {
+            "name": "black",
+            "examples": null,
+            "uuid": "5825406c-14f6-47ac-9c05-c5654f3305a8"
+          },
+          {
+            "name": "grey",
+            "examples": null,
+            "uuid": "d8d7afe2-d363-4227-96d7-c39d3cb0683e"
+          },
+          {
+            "name": "blue",
+            "examples": null,
+            "uuid": "c87757a6-0f0c-4710-97e3-eb9b9fea33b0"
+          },
+          {
+            "name": "red",
+            "examples": null,
+            "uuid": "5509fc39-a4a9-40c6-bba4-0496b51c1972"
+          },
+          {
+            "name": "brown",
+            "examples": null,
+            "uuid": "e1ceff72-427a-4994-bfb6-25d9805e6be0"
+          },
+          {
+            "name": "green",
+            "examples": null,
+            "uuid": "92e3a70a-7438-4c1c-9b23-f5a51cfa9333"
+          }
+        ],
+        "allow_unknown": true,
+        "allow_other": true,
+        "browse_by_example": false,
+        "multiselect": false,
+        "control_type": "color tags",
+        "uuid": "f39743c8-f1ce-4750-b7ab-f57d15ac7270"
+      }
+    ],
+    "uuid": "67f02864-cb77-48aa-811c-7633a7d7d564",
+    "plural": "cars"
+  }
+}

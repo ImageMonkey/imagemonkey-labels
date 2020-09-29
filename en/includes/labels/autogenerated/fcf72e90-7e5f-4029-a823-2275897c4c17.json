@@ -1,0 +1,10 @@
+{
+  "meat": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "9edffd21-99b8-4ee1-89f0-1bf4ad1ff92f",
+    "plural": "meat"
+  }
+}

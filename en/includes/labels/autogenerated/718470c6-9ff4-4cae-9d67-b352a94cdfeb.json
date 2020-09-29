@@ -1,0 +1,10 @@
+{
+  "flower": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "7528260c-bc75-48d5-9f9a-30c8c3dcdf8f",
+    "plural": "flowers"
+  }
+}

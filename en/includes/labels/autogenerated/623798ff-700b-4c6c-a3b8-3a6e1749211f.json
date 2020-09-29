@@ -1,0 +1,10 @@
+{
+  "spider": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "f7a12c25-bc80-4f58-883b-5c237f26d893",
+    "plural": "spiders"
+  }
+}

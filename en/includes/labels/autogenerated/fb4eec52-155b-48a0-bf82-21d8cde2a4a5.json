@@ -1,0 +1,10 @@
+{
+  "tennis ball": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "d040c820-cd47-4159-87e2-a0fe69fa678c",
+    "plural": "tennis balls"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "deer": {
+    "description": "optional",
+    "has": {
+      "head": {
+        "description": "optional",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "284fbd7f-bdfc-4426-bc19-f1d2a0606f84"
+      }
+    },
+    "accessors": [
+      "."
+    ],
+    "uuid": "51dc0cce-a8e2-4368-ae52-253f5e7f7e16",
+    "plural": "deer"
+  }
+}

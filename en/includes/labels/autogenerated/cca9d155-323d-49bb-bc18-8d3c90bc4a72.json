@@ -1,0 +1,10 @@
+{
+  "spectacles": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "1a139fb1-9c1a-4f2d-8b3a-5dab56bd8e43",
+    "plural": "spectacles"
+  }
+}

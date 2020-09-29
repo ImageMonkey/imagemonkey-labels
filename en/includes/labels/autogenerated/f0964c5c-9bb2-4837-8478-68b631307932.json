@@ -1,0 +1,10 @@
+{
+  "road": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "26ba089d-d11b-46ff-8f40-e292ba0e7624",
+    "plural": "roads"
+  }
+}

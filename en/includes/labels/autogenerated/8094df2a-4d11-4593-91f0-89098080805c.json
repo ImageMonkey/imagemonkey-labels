@@ -1,0 +1,10 @@
+{
+  "tree": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "de9c51d5-b633-4a92-be3f-2e09a7ed5dc4",
+    "plural": "trees"
+  }
+}

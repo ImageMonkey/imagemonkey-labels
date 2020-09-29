@@ -1,0 +1,10 @@
+{
+  "glove": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "ad31d449-4f82-45d4-a907-02d453dd3737",
+    "plural": "gloves"
+  }
+}

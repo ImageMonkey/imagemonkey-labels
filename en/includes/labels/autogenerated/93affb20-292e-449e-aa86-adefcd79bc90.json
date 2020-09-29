@@ -1,0 +1,10 @@
+{
+  "stool": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "6e720002-2a85-42b9-ac91-a4792000c2da",
+    "plural": "stools"
+  }
+}

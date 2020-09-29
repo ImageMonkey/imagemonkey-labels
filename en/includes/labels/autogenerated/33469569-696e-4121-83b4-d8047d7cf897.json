@@ -1,0 +1,10 @@
+{
+  "window": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "ff212ebc-c56c-47d3-843e-3e4d8693c3e2",
+    "plural": "windows"
+  }
+}

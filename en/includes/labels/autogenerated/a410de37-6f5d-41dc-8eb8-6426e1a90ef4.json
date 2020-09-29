@@ -1,0 +1,10 @@
+{
+  "barrel": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "07bdca85-e003-442d-9464-a82d62388aae",
+    "plural": "barrels"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "smoke": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "1f0ebe47-b86e-4a1e-b892-e2dd60434fa3",
+    "plural": "smoke"
+  }
+}

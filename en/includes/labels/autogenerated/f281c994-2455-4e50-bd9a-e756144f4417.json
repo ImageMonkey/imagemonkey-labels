@@ -1,0 +1,10 @@
+{
+  "basket": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "030f8011-453a-42d6-985f-ce7cdd17a6db",
+    "plural": "baskets"
+  }
+}

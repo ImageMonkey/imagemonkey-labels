@@ -1,0 +1,10 @@
+{
+  "pineapple": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "1ab94463-3344-4615-a5a4-661e26d2d3b9",
+    "plural": "pineapples"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "escalator": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "7be9984a-ef3a-49f8-a68e-1c3382831d1a",
+    "plural": "escalator"
+  }
+}

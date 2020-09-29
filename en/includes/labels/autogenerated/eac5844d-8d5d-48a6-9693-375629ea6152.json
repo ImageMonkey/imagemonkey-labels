@@ -1,0 +1,10 @@
+{
+  "padlock": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "02d71ded-3d01-421b-8ef5-4c1300300f1c",
+    "plural": "padlocks"
+  }
+}

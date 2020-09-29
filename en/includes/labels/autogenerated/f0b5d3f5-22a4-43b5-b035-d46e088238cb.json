@@ -1,0 +1,10 @@
+{
+  "blanket": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "445d397f-5145-45ab-abe7-48980163e5ea",
+    "plural": "blankets"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "bucket": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "10d32e6d-ba38-4336-a563-9c2a3ce982ee",
+    "plural": "buckets"
+  }
+}

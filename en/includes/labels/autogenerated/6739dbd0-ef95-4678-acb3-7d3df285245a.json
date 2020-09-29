@@ -1,0 +1,10 @@
+{
+  "floor": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "cab8e973-3c19-426b-8239-ccc5a899368b",
+    "plural": "floors"
+  }
+}

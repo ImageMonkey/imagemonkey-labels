@@ -1,0 +1,10 @@
+{
+  "chimney": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "4051de80-f782-47be-a806-878ccdabd2a2",
+    "plural": "chimneys"
+  }
+}

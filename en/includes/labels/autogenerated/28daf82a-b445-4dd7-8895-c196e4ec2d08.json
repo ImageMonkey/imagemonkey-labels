@@ -1,0 +1,10 @@
+{
+  "butterfly": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "9cb91307-ab62-489a-b774-0dea18e7f9ab",
+    "plural": "butterflies"
+  }
+}

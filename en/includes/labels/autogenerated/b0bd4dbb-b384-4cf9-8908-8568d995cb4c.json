@@ -1,0 +1,10 @@
+{
+  "camera": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "51b99c35-8c36-4862-83f2-5b361df36aef",
+    "plural": "cameras"
+  }
+}

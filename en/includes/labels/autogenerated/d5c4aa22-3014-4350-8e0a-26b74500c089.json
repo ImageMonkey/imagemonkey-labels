@@ -1,0 +1,10 @@
+{
+  "table": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "61db30b9-9903-4255-b878-f23679401c90",
+    "plural": "tables"
+  }
+}

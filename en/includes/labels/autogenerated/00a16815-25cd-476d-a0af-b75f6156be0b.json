@@ -1,0 +1,10 @@
+{
+  "litter": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "95b3f6e8-d434-4dff-9b00-abe114a4b923",
+    "plural": "litters"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "apple": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "quiz": [
+      {
+        "question": "The apple's color is...",
+        "accessors": [
+          ".color"
+        ],
+        "answers": [
+          {
+            "name": "red",
+            "examples": null,
+            "uuid": "7fbcde03-3778-4cd2-bab0-bbaedeb68f35"
+          },
+          {
+            "name": "green",
+            "examples": null,
+            "uuid": "f89d9385-516f-41f4-b83e-74481b479050"
+          },
+          {
+            "name": "yellow",
+            "examples": null,
+            "uuid": "37dc1749-8f34-4640-8fc2-abe5d2fa2b62"
+          }
+        ],
+        "allow_unknown": true,
+        "allow_other": true,
+        "browse_by_example": false,
+        "multiselect": true,
+        "control_type": "radio",
+        "uuid": "a4bcc81f-bebb-4c03-9950-eb92decccfba"
+      }
+    ],
+    "uuid": "f81cf567-4798-4e4d-95f9-b430cf04ee55",
+    "plural": "apples"
+  }
+}

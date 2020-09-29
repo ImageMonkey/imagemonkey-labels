@@ -1,0 +1,10 @@
+{
+  "park bench": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "70a063a4-fed4-49fb-988f-cd40276cfb76",
+    "plural": "park benches"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "pillar": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "a90f30ae-50bc-478d-9fec-c8f8f62f16b9",
+    "plural": "pillars"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "pavement": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "f81d3628-5f98-41e9-9967-1a13f88160c7",
+    "plural": "pavements"
+  }
+}

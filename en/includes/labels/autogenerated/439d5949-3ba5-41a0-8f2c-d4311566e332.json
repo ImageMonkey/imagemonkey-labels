@@ -1,0 +1,10 @@
+{
+  "umbrella": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "09d6f999-0e55-4bd7-a9bf-b658389d7a3d",
+    "plural": "umbrellas"
+  }
+}

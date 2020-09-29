@@ -1,0 +1,10 @@
+{
+  "chicken": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "ddbc2e8b-f8a8-498e-9a5b-fb95bbd33a2e",
+    "plural": "chickens"
+  }
+}

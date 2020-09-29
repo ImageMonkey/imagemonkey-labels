@@ -1,0 +1,10 @@
+{
+  "cathedral": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "85c8e7f4-c6ab-4e1c-b845-9798fc82236d",
+    "plural": "cathedrals"
+  }
+}

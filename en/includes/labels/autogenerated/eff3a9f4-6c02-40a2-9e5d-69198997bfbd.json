@@ -1,0 +1,10 @@
+{
+  "bollard": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "58899bce-7214-4930-8beb-cb06faa189e5",
+    "plural": "bollards"
+  }
+}

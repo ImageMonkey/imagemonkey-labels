@@ -1,0 +1,10 @@
+{
+  "balcony": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "fc937332-6647-4729-aa62-f4edb237639b",
+    "plural": "balcony"
+  }
+}

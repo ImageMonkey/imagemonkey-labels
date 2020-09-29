@@ -1,0 +1,10 @@
+{
+  "fork lift": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "4d0d2782-ce7d-489c-8038-60dcace23ce7",
+    "plural": "fork lifts"
+  }
+}

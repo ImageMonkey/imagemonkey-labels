@@ -1,0 +1,10 @@
+{
+  "tomato": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "5b8a204d-8dee-4422-9afe-fd7567a5b633",
+    "plural": "tomatoes"
+  }
+}

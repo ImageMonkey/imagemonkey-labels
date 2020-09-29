@@ -1,0 +1,10 @@
+{
+  "wind turbine": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "b647f5f9-7bf4-4aa5-a9cf-74238b77e11b",
+    "plural": "wind turbines"
+  }
+}

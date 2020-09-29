@@ -1,0 +1,10 @@
+{
+  "soil": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "d3ca96c8-13e3-44a3-b14e-72032e881139",
+    "plural": "soil"
+  }
+}

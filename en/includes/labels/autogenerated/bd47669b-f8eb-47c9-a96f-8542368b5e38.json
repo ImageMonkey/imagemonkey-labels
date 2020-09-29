@@ -1,0 +1,10 @@
+{
+  "fish": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "ab9bf24e-acc0-4857-85f8-907447c97127",
+    "plural": "fishes"
+  }
+}

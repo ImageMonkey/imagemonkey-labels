@@ -1,0 +1,10 @@
+{
+  "lizard": {
+    "description": "optional",
+    "accessors": [
+      "."
+    ],
+    "uuid": "7b60239c-2716-4572-8458-cfbd0fae5912",
+    "plural": "lizards"
+  }
+}
