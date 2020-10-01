@@ -1,0 +1,10 @@
+{
+  "teapot": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "1555cbef-dbb9-42c1-b435-27b99e587041",
+    "plural": "teapots"
+  }
+}
