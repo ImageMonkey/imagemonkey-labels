@@ -1,0 +1,10 @@
+{
+  "toy": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "4d7abf6e-f130-4608-bd28-7f0c7f0259df",
+    "plural": "toys"
+  }
+}
