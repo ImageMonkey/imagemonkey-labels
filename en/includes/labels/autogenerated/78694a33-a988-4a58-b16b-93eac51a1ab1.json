@@ -1,0 +1,10 @@
+{
+  "fountain": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "78694a33-a988-4a58-b16b-93eac51a1ab1",
+    "plural": "fountains"
+  }
+}
