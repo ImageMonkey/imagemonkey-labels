@@ -1,0 +1,10 @@
+{
+  "machine": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "8772e2b0-1526-4088-90fa-57baf9eb245d",
+    "plural": "machines"
+  }
+}
