@@ -1,0 +1,10 @@
+{
+  "handrail": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "1eb5c38e-a9ea-4cec-8193-e5a0cd374ba2",
+    "plural": "handrails"
+  }
+}
