@@ -1,0 +1,10 @@
+{
+  "fruit": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "61dc9ff7-59c9-437d-94a9-ae63475b5c82",
+    "plural": "fruits"
+  }
+}
