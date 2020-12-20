@@ -1,0 +1,10 @@
+{
+  "stepladder": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "cdbb1875-09ae-4246-8ded-18858e82ed88",
+    "plural": "stepladders"
+  }
+}
