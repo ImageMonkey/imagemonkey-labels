@@ -1,0 +1,10 @@
+{
+  "wristwatch": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "48cf3480-1f14-47df-ab83-8d89121da650",
+    "plural": "wristwatches"
+  }
+}
