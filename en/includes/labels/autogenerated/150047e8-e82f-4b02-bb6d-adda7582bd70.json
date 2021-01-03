@@ -1,6 +1,15 @@
 {
   "motorbike": {
     "description": "optional",
+    "has": {
+      "wheel": {
+        "description": "",
+        "accessors": [
+          ".has"
+        ],
+        "uuid": "c136703b-0f6e-43d4-bced-3d833474b36f"
+      }
+    },
     "accessors": [
       "."
     ],
