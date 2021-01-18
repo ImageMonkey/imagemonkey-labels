@@ -1,0 +1,10 @@
+{
+  "furniture": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "5716fc97-ab17-486e-bd0d-9351bf773afc",
+    "plural": "furniture"
+  }
+}
