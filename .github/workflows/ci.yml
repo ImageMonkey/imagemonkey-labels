@@ -8,9 +8,9 @@ on:
     branches:
       - '**' #every branch
   workflow_dispatch:
-    branches:
-      - '**' #every branch
-    types: [trigger_build]
+    #branches:
+    #  - '**' #every branch
+    #types: [trigger_build]
 
 jobs:
   setup:
