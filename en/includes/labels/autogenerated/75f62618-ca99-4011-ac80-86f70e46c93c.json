@@ -1,0 +1,10 @@
+{
+  "cereal": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "75f62618-ca99-4011-ac80-86f70e46c93c",
+    "plural": "cereals"
+  }
+}
