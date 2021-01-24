@@ -84,6 +84,6 @@ jobs:
           mkdir -p imagemonkey-core/data/quarantine
           mkdir -p imagemonkey-core/data/unverified_donations
           echo "Preparing env file for github actions job"
-          cp env/env.ci env/env_unit_tests.ci
+          cp imagemonkey-core/env/env.ci env/env_unit_tests.ci
           echo "TEST_MODE=only-unittest" >> env/env_unit_tests.ci
           docker-compose -f env/docker/docker-compose.ci.yml up --abort-on-container-exit --exit-code-from testing 
