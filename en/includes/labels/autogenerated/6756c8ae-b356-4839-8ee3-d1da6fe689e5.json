@@ -1,0 +1,10 @@
+{
+  "volleyball": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "6756c8ae-b356-4839-8ee3-d1da6fe689e5",
+    "plural": "volleyballs"
+  }
+}
