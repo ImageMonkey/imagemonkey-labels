@@ -1,0 +1,10 @@
+{
+  "boot": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "e9ff0343-4867-49da-84cc-64f033ccb42c",
+    "plural": "boots"
+  }
+}
