@@ -1,16 +1,7 @@
 name: Run Unittests & Integration Tests
 
 on:
-  push:
-    branches:
-      - '**' #every branch
-  pull_request:
-    branches:
-      - '**' #every branch
   workflow_dispatch:
-    #branches:
-    #  - '**' #every branch
-    #types: [trigger_build]
 
 jobs:
   setup:
