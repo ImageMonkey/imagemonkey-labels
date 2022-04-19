@@ -1,0 +1,10 @@
+{
+  "minivan": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "25b70727-1ff0-458a-bfdb-cb6efda7820b",
+    "plural": "minivans"
+  }
+}
