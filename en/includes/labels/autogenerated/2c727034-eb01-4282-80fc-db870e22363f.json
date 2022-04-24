@@ -1,0 +1,10 @@
+{
+  "dragonfly": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "2c727034-eb01-4282-80fc-db870e22363f",
+    "plural": "dragonflies"
+  }
+}
