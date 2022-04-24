@@ -1,0 +1,10 @@
+{
+  "hammer": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "2fc251ac-eb32-45d9-930d-ebbc4bd49bb8",
+    "plural": "hammers"
+  }
+}
