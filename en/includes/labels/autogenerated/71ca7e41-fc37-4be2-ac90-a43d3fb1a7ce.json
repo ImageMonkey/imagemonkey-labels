@@ -1,0 +1,10 @@
+{
+  "electric guitar": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "71ca7e41-fc37-4be2-ac90-a43d3fb1a7ce",
+    "plural": "electric guitars"
+  }
+}
