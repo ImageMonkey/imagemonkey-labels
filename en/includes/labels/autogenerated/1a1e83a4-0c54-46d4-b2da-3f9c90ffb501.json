@@ -1,0 +1,10 @@
+{
+  "plant pot": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "1a1e83a4-0c54-46d4-b2da-3f9c90ffb501",
+    "plural": "plant pots"
+  }
+}
