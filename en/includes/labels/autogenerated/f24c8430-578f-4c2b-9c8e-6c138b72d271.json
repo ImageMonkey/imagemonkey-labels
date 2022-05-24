@@ -1,0 +1,10 @@
+{
+  "litter bin": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "f24c8430-578f-4c2b-9c8e-6c138b72d271",
+    "plural": "litter bins"
+  }
+}
