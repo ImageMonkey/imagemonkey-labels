@@ -1,0 +1,10 @@
+{
+  "wood": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "fd2c0b64-18f7-4eb9-b6e9-d34ed230f523",
+    "plural": "woods"
+  }
+}
