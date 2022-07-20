@@ -1,0 +1,10 @@
+{
+  "tabletop": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "dfdd6eb9-c4d6-4c8e-9140-7fdd37448921",
+    "plural": "tabletops"
+  }
+}
