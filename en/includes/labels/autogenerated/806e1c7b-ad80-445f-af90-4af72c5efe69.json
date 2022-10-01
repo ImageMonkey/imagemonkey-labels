@@ -1,0 +1,10 @@
+{
+  "left/woman": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "806e1c7b-ad80-445f-af90-4af72c5efe69",
+    "plural": "left/womans"
+  }
+}
