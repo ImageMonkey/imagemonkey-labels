@@ -1,0 +1,10 @@
+{
+  "right/head/man": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "85167fe6-dd9d-477d-9104-913bd8fcf0ef",
+    "plural": "right/head/men"
+  }
+}
