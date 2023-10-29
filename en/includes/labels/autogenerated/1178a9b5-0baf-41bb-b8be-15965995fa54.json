@@ -1,0 +1,10 @@
+{
+  "vehicle": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "1178a9b5-0baf-41bb-b8be-15965995fa54",
+    "plural": "vehicles"
+  }
+}
