@@ -1,0 +1,10 @@
+{
+  "seafood": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "32c2f985-9536-4a1d-8d5a-607714c5d212",
+    "plural": "seafoods"
+  }
+}
