@@ -1,0 +1,10 @@
+{
+  "right/leg/man": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "5ebc5844-0904-4481-9233-8fdee0fb7d41",
+    "plural": "right/leg/men"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "archway": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "0a3b2763-a019-4c41-9cf5-61a010380351",
+    "plural": "archways"
+  }
+}

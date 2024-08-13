@@ -1,0 +1,10 @@
+{
+  "right/shoulder/man": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "b0902be6-7727-4d5a-8eab-887d024f7066",
+    "plural": "right/shoulder/men"
+  }
+}

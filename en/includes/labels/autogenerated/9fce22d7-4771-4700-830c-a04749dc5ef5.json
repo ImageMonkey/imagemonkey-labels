@@ -1,0 +1,10 @@
+{
+  "food": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "9fce22d7-4771-4700-830c-a04749dc5ef5",
+    "plural": "foods"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "aircraft": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "bbb6df0e-b690-49ed-b9ff-fa1e9b8b94e8",
+    "plural": "aircrafts"
+  }
+}
