@@ -1,0 +1,10 @@
+{
+  "flour": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "0d384b8a-5fe3-4c8f-b8e1-df4964fb6664",
+    "plural": "flours"
+  }
+}
