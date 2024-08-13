@@ -60,7 +60,7 @@ jobs:
           echo "Preparing env file for github actions job"
           cp imagemonkey-core/env/env.ci imagemonkey-core/env/env_api_tests.ci
           echo "TEST_MODE=only-api" >> imagemonkey-core/env/env_api_tests.ci
-          /usr/local/bin/docker-compose -f imagemonkey-core/env/docker/docker-compose.ci.yml up --abort-on-container-exit --exit-code-from testing
+          docker compose -f imagemonkey-core/env/docker/docker-compose.ci.yml up --abort-on-container-exit --exit-code-from testing
 
   unit-test:
     runs-on: ubuntu-latest
@@ -89,4 +89,4 @@ jobs:
           echo "Preparing env file for github actions job"
           cp imagemonkey-core/env/env.ci imagemonkey-core/env/env_unit_tests.ci
           echo "TEST_MODE=only-unittest" >> imagemonkey-core/env/env_unit_tests.ci
-          /usr/local/bin/docker-compose -f imagemonkey-core/env/docker/docker-compose.ci.yml up --abort-on-container-exit --exit-code-from testing
+          docker compose -f imagemonkey-core/env/docker/docker-compose.ci.yml up --abort-on-container-exit --exit-code-from testing
