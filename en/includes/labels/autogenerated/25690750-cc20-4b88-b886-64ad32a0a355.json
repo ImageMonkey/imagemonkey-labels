@@ -1,0 +1,10 @@
+{
+  "taxi": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "25690750-cc20-4b88-b886-64ad32a0a355",
+    "plural": "taxis"
+  }
+}
