@@ -1,0 +1,10 @@
+{
+  "home": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "fb71d6d8-d790-41bc-a2d6-44619964f701",
+    "plural": "homes"
+  }
+}
