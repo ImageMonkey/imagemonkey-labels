@@ -1,0 +1,10 @@
+{
+  "crowd": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "45bfce48-1be1-40cf-aea6-437bb19a00e1",
+    "plural": "crowds"
+  }
+}
