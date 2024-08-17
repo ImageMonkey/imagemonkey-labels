@@ -1,0 +1,10 @@
+{
+  "sushi": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "13ad4fb0-3f6d-4825-b4fb-6d3f8908274b",
+    "plural": "sushis"
+  }
+}
