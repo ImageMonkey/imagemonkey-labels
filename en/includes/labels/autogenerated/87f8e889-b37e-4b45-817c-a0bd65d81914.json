@@ -1,0 +1,10 @@
+{
+  "interior": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "87f8e889-b37e-4b45-817c-a0bd65d81914",
+    "plural": "interiors"
+  }
+}
