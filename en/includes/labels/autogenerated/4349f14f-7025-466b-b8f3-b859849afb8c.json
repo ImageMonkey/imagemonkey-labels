@@ -1,0 +1,10 @@
+{
+  "craft": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "4349f14f-7025-466b-b8f3-b859849afb8c",
+    "plural": "crafts"
+  }
+}
