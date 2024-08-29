@@ -1,0 +1,10 @@
+{
+  "tower crane": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "41bc7c7e-43c8-4c70-9a64-358cd682b79b",
+    "plural": "tower cranes"
+  }
+}
