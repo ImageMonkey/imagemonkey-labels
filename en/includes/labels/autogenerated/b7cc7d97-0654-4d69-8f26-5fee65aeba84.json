@@ -1,0 +1,10 @@
+{
+  "zebra": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "b7cc7d97-0654-4d69-8f26-5fee65aeba84",
+    "plural": "zebras"
+  }
+}
