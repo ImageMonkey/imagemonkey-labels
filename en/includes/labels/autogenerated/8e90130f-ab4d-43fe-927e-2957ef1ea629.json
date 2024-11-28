@@ -1,0 +1,10 @@
+{
+  "water": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "8e90130f-ab4d-43fe-927e-2957ef1ea629",
+    "plural": "waters"
+  }
+}
