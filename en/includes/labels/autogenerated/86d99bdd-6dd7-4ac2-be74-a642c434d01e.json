@@ -1,0 +1,10 @@
+{
+  "headphones": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "86d99bdd-6dd7-4ac2-be74-a642c434d01e",
+    "plural": "headphones"
+  }
+}
