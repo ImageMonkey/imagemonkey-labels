@@ -1,0 +1,10 @@
+{
+  "location": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "673205d4-fb79-4df2-9ee0-68f796445f8d",
+    "plural": "locations"
+  }
+}
