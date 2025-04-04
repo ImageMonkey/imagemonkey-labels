@@ -1,0 +1,10 @@
+{
+  "child": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "d2b21fed-fae2-4f08-96c2-11f2b4ee7da5",
+    "plural": "children"
+  }
+}
