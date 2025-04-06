@@ -1,0 +1,10 @@
+{
+  "wheel": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "f30354d2-3df2-4410-a36c-f419256ccbd1",
+    "plural": "wheels"
+  }
+}
