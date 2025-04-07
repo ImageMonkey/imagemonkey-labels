@@ -1,0 +1,10 @@
+{
+  "stone wall": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "ed107fac-7322-4d49-afb2-9b4a0f8241f9",
+    "plural": "stone walls"
+  }
+}
