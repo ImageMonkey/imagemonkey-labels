@@ -1,0 +1,10 @@
+{
+  "windscreen": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "72a499ff-078f-46d4-a4d1-5c582f3d8e6c",
+    "plural": "windscreens"
+  }
+}
