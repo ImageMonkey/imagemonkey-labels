@@ -1,0 +1,10 @@
+{
+  "doorway": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "e5231164-3434-4fe6-98fd-87d16678a562",
+    "plural": "doorways"
+  }
+}
