@@ -1,0 +1,10 @@
+{
+  "railway track": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "8815dc15-5c31-4ee6-924e-4f884ab07c77",
+    "plural": "railway tracks"
+  }
+}
