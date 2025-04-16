@@ -1,0 +1,10 @@
+{
+  "supercar": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "9c6ef1e7-c743-4de1-a206-783aee9fe0d7",
+    "plural": "supercars"
+  }
+}
