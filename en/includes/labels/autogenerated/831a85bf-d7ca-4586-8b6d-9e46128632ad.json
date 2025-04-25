@@ -1,0 +1,10 @@
+{
+  "arthropod": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "831a85bf-d7ca-4586-8b6d-9e46128632ad",
+    "plural": "arthropods"
+  }
+}
