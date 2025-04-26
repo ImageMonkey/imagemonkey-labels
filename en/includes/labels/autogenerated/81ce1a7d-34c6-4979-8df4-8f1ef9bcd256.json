@@ -1,0 +1,10 @@
+{
+  "agriculture": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "81ce1a7d-34c6-4979-8df4-8f1ef9bcd256",
+    "plural": "agricultures"
+  }
+}
