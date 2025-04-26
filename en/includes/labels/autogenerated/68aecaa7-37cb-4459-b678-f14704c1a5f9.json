@@ -1,0 +1,10 @@
+{
+  "countertop": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "68aecaa7-37cb-4459-b678-f14704c1a5f9",
+    "plural": "countertops"
+  }
+}
