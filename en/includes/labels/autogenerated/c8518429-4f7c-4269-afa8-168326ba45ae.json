@@ -1,0 +1,10 @@
+{
+  "beard": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "c8518429-4f7c-4269-afa8-168326ba45ae",
+    "plural": "beards"
+  }
+}
