@@ -1,0 +1,10 @@
+{
+  "ground": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "ed9b9c83-4bce-4c2a-98f9-6d8583f197e6",
+    "plural": "grounds"
+  }
+}
