@@ -1,0 +1,10 @@
+{
+  "platform": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "44726154-4fe7-4450-8058-e0c067b5f3aa",
+    "plural": "platforms"
+  }
+}
