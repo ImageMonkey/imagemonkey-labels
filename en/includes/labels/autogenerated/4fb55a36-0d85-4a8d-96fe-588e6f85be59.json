@@ -1,0 +1,10 @@
+{
+  "driveway": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "4fb55a36-0d85-4a8d-96fe-588e6f85be59",
+    "plural": "driveways"
+  }
+}
