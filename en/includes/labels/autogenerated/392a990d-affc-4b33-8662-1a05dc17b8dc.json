@@ -1,0 +1,10 @@
+{
+  "raining": {
+    "description": "",
+    "accessors": [
+      "."
+    ],
+    "uuid": "392a990d-affc-4b33-8662-1a05dc17b8dc",
+    "plural": "rainings"
+  }
+}
